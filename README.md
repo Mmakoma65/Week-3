@@ -2,12 +2,12 @@
 A web app for exploring the Pine City Zoo.
 
 Features
-1 Animal directory
-2 Interactive zoo map
-3 Visitor information
-4 Demo
-5 Screenshot
-6 Live Demo <!-- Add link if available -->
+ Animal directory
+ Interactive zoo map
+ Visitor information
+ Demo
+ Screenshot
+ Live Demo <!-- Add link if available -->
 
 Installation
 Clone the repo: git clone https://github.com/Mmakoma65/Week-3.git
@@ -16,9 +16,9 @@ Usage
 Browse animals, view the map, and get visitor info.
 
 Technologies Used
-1 HTML
-2 CSS
-3 Contributing
+ HTML
+ CSS
+ Contributing
 
 License
 MIT
