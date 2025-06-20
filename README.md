@@ -1,2 +1,29 @@
-# Week-3
-Making a wonderful Pine City Zoo App
+Pine City Zoo App
+A web app for exploring the Pine City Zoo.
+
+Features
+Animal directory
+Interactive zoo map
+Visitor information
+Demo
+Screenshot
+Live Demo <!-- Add link if available -->
+
+Installation
+Clone the repo: git clone https://github.com/Mmakoma65/Week-3.git
+Open index.html in your browser.
+Usage
+Browse animals, view the map, and get visitor info.
+
+Technologies Used
+HTML
+CSS
+Contributing
+Pull requests are welcome! For major changes, open an issue first.
+
+License
+MIT
+
+Contact
+Created by Mmakoma65
+
